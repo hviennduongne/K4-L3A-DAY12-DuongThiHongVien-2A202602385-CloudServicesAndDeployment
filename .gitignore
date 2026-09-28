@@ -10,6 +10,7 @@ __pycache__/
 venv/
 env/
 .pytest_cache/
+.npm-cache/
 *.egg-info/
 
 # OS / editor
